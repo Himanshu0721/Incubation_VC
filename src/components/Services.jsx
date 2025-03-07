@@ -8,7 +8,7 @@ const services = [
     description: "Incubation accelerates startup growth by providing mentorship, resources, and a collaborative environment. Transform your ideas into actionable plans with expert guidance and strategic support.",
     icon: "🤝",
     delay: 0.2,
-    url: "#" //change the link
+    url: "https://vc-incubation.vercel.app" //change the link
   },
   {
     title: "TEN Funding",
