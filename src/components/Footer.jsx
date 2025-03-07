@@ -12,9 +12,9 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-bold text-blue-900 mb-4">Services</h4>
             <ul className="space-y-2">
-              {/* <li><a href="https://hrconsulting.entrepreneurshipnetwork.net/" className="text-gray-600 hover:text-blue-900">Academy</a></li> */}
+
               <li><a href="https://vc-incubation.vercel.app/" className="text-gray-600 hover:text-blue-900">TEN Incubation</a></li>
-              <li><a href="https://ten-artist.vercel.app" className="text-gray-600 hover:text-blue-900">TEN Funding</a></li>
+              <li><a href="https://ten-funding-lime.vercel.app/" className="text-gray-600 hover:text-blue-900">TEN Funding</a></li>
             </ul>
           </div>
           <div>
